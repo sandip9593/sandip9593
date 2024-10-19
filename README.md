@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandiipmondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandiipmondal/" height="30" width="40" /></a>
 <a href="https://instagram.com/sandiipmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandiipmondal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sandip_leet124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sandip_leet124/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sandip_leet124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[https://leetcode.com/u/sandip_leet124/](https://leetcode.com/u/Sandip_leet124/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
